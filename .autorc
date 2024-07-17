@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Doggysus",
+  "repo": "container-dvuo42a",
+  "name": "Doggysus",
+  "email": "burlovigor99@gmail.com",
+}
