@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Aug 13 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Создано в Colab ([@Doggysus](https://github.com/Doggysus))
+
+#### Authors: 1
+
+- DogsFox ([@Doggysus](https://github.com/Doggysus))
+
+---
+
 # v0.0.1 (Wed Jul 17 2024)
 
 :tada: This release contains work from a new contributor! :tada:
